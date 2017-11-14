@@ -1,0 +1,10 @@
+D:\Projects\Workspace\Workings\Test\MyFormsApplication\MyFormsApplication\bin\Debug\MyFormsApplication.exe
+D:\Projects\Workspace\Workings\Test\MyFormsApplication\MyFormsApplication\bin\Debug\MyFormsApplication.pdb
+D:\Projects\Workspace\Workings\Test\MyFormsApplication\MyFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Workspace\Workings\Test\MyFormsApplication\MyFormsApplication\obj\x86\Debug\MyFormsApplication.Properties.Resources.resources
+D:\Projects\Workspace\Workings\Test\MyFormsApplication\MyFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Workspace\Workings\Test\MyFormsApplication\MyFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Workspace\Workings\Test\MyFormsApplication\MyFormsApplication\obj\x86\Debug\MyFormsApplication.exe
+D:\Projects\Workspace\Workings\Test\MyFormsApplication\MyFormsApplication\obj\x86\Debug\MyFormsApplication.pdb
+D:\Projects\Workspace\Workings\Test\MyFormsApplication\MyFormsApplication\obj\x86\Debug\MyFormsApplication.Form1.resources
+D:\Projects\Workspace\Workings\Test\MyFormsApplication\MyFormsApplication\obj\x86\Debug\MyFormsApplication.Form2.resources
